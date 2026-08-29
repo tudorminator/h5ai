@@ -16,7 +16,7 @@
     "precommit": "npm run -s lint && npm run -s test"
   },
   "devDependencies": {
-    "@babel/core": "7.12.10",
+    "@babel/core": "7.29.6",
     "@babel/preset-env": "7.12.11",
     "eslint": "7.18.0",
     "ghu": "0.28.0",
